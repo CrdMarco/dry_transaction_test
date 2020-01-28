@@ -1,0 +1,10 @@
+euro:
+  name: 'Euro'
+  code: 'EUR'
+  symbol: '€'
+  delimiter: '.'
+  separator: ','
+  decimals: 2
+  pos: 0
+  default: true
+  quote: 1
